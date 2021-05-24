@@ -3,5 +3,5 @@
 My work at NquiringMinds involves developing browser based smart AI-powered analytics platforms to help businesses and organisations gain insights into the data they hold and have access to as well as developing easy-to-use workflow systems to simplyify complicated workflow processes and capture data as it is entered/created by users.
 
 ## :pushpin:My Github Stats
-<p align=center><img src="https://github-readme-stats.vercel.app/api?username=Rohith04MVK&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith04MVK&layout=compact&theme=tokyonight"/></p>
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith04MVK&theme=tokyonight"></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api?username=Rohith04MVK&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshleySetter&layout=compact&theme=tokyonight"/></p>
+<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshleySetter&theme=tokyonight"></p>
